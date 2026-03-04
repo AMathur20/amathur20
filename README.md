@@ -49,5 +49,5 @@ With over a decade of experience across **Google, Amazon, Microsoft, Bank Leumi,
 
 ## 📫 Let's Connect
 I am passionate about the future of **Ambient AI**, **Secure Compute**, and scaling high-growth technology organizations.
-- 💼 **LinkedIn:** [linkedin.com/in/ankurmathur20](https://www.linkedin.com/in/ankurmathur20/)
+- 💼 **LinkedIn:** [linkedin.com/in/ankurmathurpm](https://www.linkedin.com/in/ankurmathurpm/)
 - 📍 **Location:** Kirkland, WA (Greater Seattle Area)
