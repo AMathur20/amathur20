@@ -1,9 +1,6 @@
 # Ankur Mathur
 ### Senior Product Leader | Private AI Compute & Infrastructure @ Google
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([[https://www.linkedin.com/in/ankurmathur/](https://www.linkedin.com/in/ankurmathurpm)](https://www.linkedin.com/in/ankurmathurpm))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ankur.ai-black?style=flat-square)](https://github.com/amathur20)
-
 ---
 
 ## 🚀 Executive Summary
