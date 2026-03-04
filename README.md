@@ -50,11 +50,6 @@ With over a decade of experience across **Google, Amazon, Microsoft, Bank Leumi,
 
 ---
 
-## 📈 Activity & Impact
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=amathur20&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC)
-
----
-
 ## 📫 Let's Connect
 I am passionate about the future of **Ambient AI**, **Secure Compute**, and scaling high-growth technology organizations.
 - 📧 **Email:** [ankur.mathur@gmail.com](mailto:ankur.mathur@gmail.com)
